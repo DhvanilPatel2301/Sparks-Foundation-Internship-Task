@@ -10,5 +10,12 @@ This Intenship is deveided into total 8 (Eight) Tasks.
 ## Data can be found at
 http://bit.ly/w-data
 
+# TASK-02 (Prediction Using Unupervised ML)
+## Problem Statement
+1.From the given 'Iris' Dataset  Predict Optimum Number of clusters and represent it visually
+
+## Data can be found at
+https://bit.ly/3kXTdox
+
 ## Author
 - [@Dhvanil Patel](https://github.com/DhvanilPatel2301)
