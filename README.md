@@ -10,7 +10,7 @@ This Intenship is deveided into total 8 (Eight) Tasks.
 ## Data can be found at
 http://bit.ly/w-data
 
-# TASK-02 (Prediction Using Unupervised ML)
+# TASK-02 (Prediction Using Unsupervised ML)
 ## Problem Statement
 1.From the given 'Iris' Dataset  Predict Optimum Number of clusters and represent it visually
 
