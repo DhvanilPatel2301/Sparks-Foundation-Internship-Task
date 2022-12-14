@@ -1,7 +1,7 @@
 # Sparks-Foundation-Internship-Data Science And Bussines Analytics
 Hello Everyone,
 
-This Intenship is deveided into total 8 (Eight) Tasks.
+# This Intenship is deveided into total 8 (Eight) Tasks.
 
 # TASK-01 (Prediction Using Supervised ML)
 ## Problem Statement
