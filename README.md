@@ -17,5 +17,14 @@ http://bit.ly/w-data
 ## Data can be found at
 https://bit.ly/3kXTdox
 
+# TASK-03 (Exploratory Data Analysis - Retail)
+## Problem Statement
+1.Perform 'Exploratory data analysis' on dataset 'SampleSuperstore'
+2.As a business manager, try to find out the weak areas where you can work to make more profit.
+3.What business problem you can derive by exploring data?
+
+## Data can be found at
+https://bit.ly/3i4rbWl
+
 ## Author
 - [@Dhvanil Patel](https://github.com/DhvanilPatel2301)
