@@ -28,5 +28,16 @@ https://bit.ly/3kXTdox
 ## Data can be found at
 https://bit.ly/3i4rbWl
 
+# TASK-04 (Exploratory Data Analysis - Terrorism)
+## Problem Statement
+1.Perform 'Exploratory data analysis' on dataset 'Global Terrorism'
+
+2.As a security/defense analyst, try to find out the hot zone of terrorism.
+
+3.What all security issues and insights you can derive by EDA?
+
+## Data can be found at
+https://bit.ly/2TK5Xn5
+
 ## Author
 - [@Dhvanil Patel](https://github.com/DhvanilPatel2301)
