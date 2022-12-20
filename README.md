@@ -39,5 +39,16 @@ https://bit.ly/3i4rbWl
 ## Data can be found at
 https://bit.ly/2TK5Xn5
 
+# TASK-05 (Exploratory Data Analysis - Sports)
+## Problem Statement
+1.Perform 'Exploratory Data Analysis' on data set ' Indian Premier League'
+
+2.As a Sports Analysts, find out the most successful teams, players and factors contributing win or lose of teams.
+
+3.Suggest teams or players a company should endorse for its products.
+
+## Data can be found at
+https://bit.ly/34SRn3b
+
 ## Author
 - [@Dhvanil Patel](https://github.com/DhvanilPatel2301)
